@@ -1,0 +1,13 @@
+:root{
+    --pr-background-color:rgba(0, 0, 0, 0.788);
+    --pr-color:white;
+    --pr-border:2px solid gold;
+   /* --pr-border-readus:8px;*/
+   --pr-margin-left:20px;
+   --pr-margin-top:40px;
+   --pr-cursor:pointer;
+
+    
+
+  
+}

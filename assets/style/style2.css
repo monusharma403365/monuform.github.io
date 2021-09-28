@@ -1,0 +1,26 @@
+.Registerbox{
+    color: var(--pr-color);
+    border: var(--pr-border);
+    width: 30%;
+    height: 700px;
+    background-color: var(--pr-background-color);
+    border-radius: var( --pr-border-readus);
+   
+}
+.Registerbox h1{
+    margin-left: var(--pr-margin-left);
+    margin-top: var(--pr-margin-top);
+}
+.inputbox1{
+    margin-left: var(--pr-margin-left);
+
+}
+.inputbox1 input{
+    width: 95%;
+    height: 50px;
+    background-color: #3b4148;
+   
+    border-radius: 0px 3px 3px 0px;
+    color: whitesmoke;
+}
+

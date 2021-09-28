@@ -1,0 +1,19 @@
+body{
+  /* background-color: var(--pr-background-color);*/
+ color: var(--pr-color);
+ justify-content: center;
+ display: flex;
+    
+}
+.buttonbox button{
+    width: 95%;
+    height: 7%;
+    background-color: #b5cd60;
+    color: var(--pr-color);
+    border-radius: var( --pr-border-readus);
+    border: none;
+    cursor: var(--pr-cursor);
+}
+.listbox{
+    font-size: 20px;
+}
